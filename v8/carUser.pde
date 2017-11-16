@@ -1,7 +1,6 @@
 /**
  * @version 8 july 2017
  * @author Alexey Titov & Shir Bentabou
- * @ID Shir:302895529     Alexey:334063021
  */
 class carUser
 { 
